@@ -1,16 +1,18 @@
-//Grzegorz Musiał
-//Informatyka grupa 2
+//Musiał Grzegorz
+//Informatyka gr. 2
 
 #include <stdio.h>
 
 int nwd(int a,int b)
 {
-	if(b==0){
-		return a;
-	}
-	else{
-    		return nwd(b,a%b);
-	}
+	int c;
+	while(b!=0)
+	{
+		c=a%b;
+        	a=b;
+        	b=c;
+    	}
+    	return a;
 }
 
 int main()
