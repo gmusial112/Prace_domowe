@@ -33,7 +33,7 @@ $ git commit -m "komentarz"
 $ git status	# status plików projektu - porównanie obecnych do ostatnio "zrzuconych"
 $ git log	# wyświetlenie kolejnych komentarzy do zmian w projekcie
 
-$ git remote add origin https://github.com/gmusial112/pierwsze-repozytorium.git
+$ git remote add origin https://github.com/gmusial112/pierwsze_repozytorium.git
 		# powiązanie systemu "git" z kontem w serwisie "github.com"
 
 $ git push -u origin master	# pierwsze przesłanie projektu do serwisu
