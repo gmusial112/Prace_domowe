@@ -6,7 +6,7 @@ Zamiana liczby dziesiętnej na binarną polega na cyklicznym dzieleniu z resztą
 
 np. zamiana liczby 173
 
-przyklad
+Przyklad
 
 Aby przeliczyć liczbę z systemu dwójkowego na dziesiętny musimy skorzystać z poniższego wzoru: wzór
 System ósemkowy
@@ -22,10 +22,6 @@ Zamiana liczby dziesiętnej na szesnastkową polega na cyklicznym dzieleniu z re
 
 Aby zamienić liczbę z systemu dwójkowego na szesnastkowy wystarczy ją podzielić na 4-bitowe grupy i tak przygotowanym grupom bitów przyporządkować odpowiadające im znaki zapisu szesnastkowego.
 
-tabelka
-
-Przykład
-
-przyklad
+Przyklad
 
 Aby zamienić liczbę z systemu szesnastkowego na dwójkowy postępujemy odwrótnie. Każdą cyfrę szesnastkową zastępujemy grupą 4 bitów wg tabelki konwersji. Grupy łączymy w całość otrzymując odpowiednik dwójkowy wyjściowej liczby szesnastkowej.
